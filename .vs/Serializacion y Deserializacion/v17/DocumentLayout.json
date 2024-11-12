@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rpere\\Downloads\\Serializacion y Deserializacion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{468C3AC9-ADDD-4D5A-85A7-DE01C1B494FF}|Serializacion\\Serializacion.csproj|c:\\users\\rpere\\downloads\\serializacion y deserializacion\\serializacion\\jsonobjectserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{468C3AC9-ADDD-4D5A-85A7-DE01C1B494FF}|Serializacion\\Serializacion.csproj|solutionrelative:serializacion\\jsonobjectserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{468C3AC9-ADDD-4D5A-85A7-DE01C1B494FF}|Serializacion\\Serializacion.csproj|c:\\users\\rpere\\downloads\\serializacion y deserializacion\\serializacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{468C3AC9-ADDD-4D5A-85A7-DE01C1B494FF}|Serializacion\\Serializacion.csproj|solutionrelative:serializacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{468C3AC9-ADDD-4D5A-85A7-DE01C1B494FF}|Serializacion\\Serializacion.csproj|C:\\Users\\rpere\\Downloads\\Serializacion y Deserializacion\\serializacion\\serializacionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{468C3AC9-ADDD-4D5A-85A7-DE01C1B494FF}|Serializacion\\Serializacion.csproj|solutionrelative:serializacion\\serializacionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{468C3AC9-ADDD-4D5A-85A7-DE01C1B494FF}|Serializacion\\Serializacion.csproj|c:\\users\\rpere\\downloads\\serializacion y deserializacion\\serializacion\\serializacionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{468C3AC9-ADDD-4D5A-85A7-DE01C1B494FF}|Serializacion\\Serializacion.csproj|solutionrelative:serializacion\\serializacionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7023A2B-B9FD-4F4C-8066-EBD26B502A2A}|BankLibrery\\BankLibrery.csproj|C:\\Users\\rpere\\Downloads\\Serializacion y Deserializacion\\banklibrery\\bankuiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B7023A2B-B9FD-4F4C-8066-EBD26B502A2A}|BankLibrery\\BankLibrery.csproj|solutionrelative:banklibrery\\bankuiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7023A2B-B9FD-4F4C-8066-EBD26B502A2A}|BankLibrery\\BankLibrery.csproj|c:\\users\\rpere\\downloads\\serializacion y deserializacion\\banklibrery\\bankuiform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7023A2B-B9FD-4F4C-8066-EBD26B502A2A}|BankLibrery\\BankLibrery.csproj|solutionrelative:banklibrery\\bankuiform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JsonObjectSerializer.cs",
+              "DocumentMoniker": "C:\\Users\\rpere\\Downloads\\Serializacion y Deserializacion\\Serializacion\\JsonObjectSerializer.cs",
+              "RelativeDocumentMoniker": "Serializacion\\JsonObjectSerializer.cs",
+              "ToolTip": "C:\\Users\\rpere\\Downloads\\Serializacion y Deserializacion\\Serializacion\\JsonObjectSerializer.cs",
+              "RelativeToolTip": "Serializacion\\JsonObjectSerializer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T05:41:33.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rpere\\Downloads\\Serializacion y Deserializacion\\Serializacion\\Program.cs",
+              "RelativeDocumentMoniker": "Serializacion\\Program.cs",
+              "ToolTip": "C:\\Users\\rpere\\Downloads\\Serializacion y Deserializacion\\Serializacion\\Program.cs",
+              "RelativeToolTip": "Serializacion\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T05:41:32.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SerializacionForm.cs",
+              "DocumentMoniker": "C:\\Users\\rpere\\Downloads\\Serializacion y Deserializacion\\Serializacion\\SerializacionForm.cs",
+              "RelativeDocumentMoniker": "Serializacion\\SerializacionForm.cs",
+              "ToolTip": "C:\\Users\\rpere\\Downloads\\Serializacion y Deserializacion\\Serializacion\\SerializacionForm.cs",
+              "RelativeToolTip": "Serializacion\\SerializacionForm.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAtwJEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T03:24:12.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SerializacionForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\rpere\\Downloads\\Serializacion y Deserializacion\\Serializacion\\SerializacionForm.cs",
+              "RelativeDocumentMoniker": "Serializacion\\SerializacionForm.cs",
+              "ToolTip": "C:\\Users\\rpere\\Downloads\\Serializacion y Deserializacion\\Serializacion\\SerializacionForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Serializacion\\SerializacionForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T23:51:18.935Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BankUIForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\rpere\\Downloads\\Serializacion y Deserializacion\\BankLibrery\\BankUIForm.cs",
+              "RelativeDocumentMoniker": "BankLibrery\\BankUIForm.cs",
+              "ToolTip": "C:\\Users\\rpere\\OneDrive\\Desktop\\Serializacion y Deserializacion\\BankLibrery\\BankUIForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\OneDrive\\Desktop\\Serializacion y Deserializacion\\BankLibrery\\BankUIForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T04:26:08.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BankUIForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\rpere\\Downloads\\Serializacion y Deserializacion\\BankLibrery\\BankUIForm.Designer.cs",
+              "RelativeDocumentMoniker": "BankLibrery\\BankUIForm.Designer.cs",
+              "ToolTip": "C:\\Users\\rpere\\Downloads\\Serializacion y Deserializacion\\BankLibrery\\BankUIForm.Designer.cs",
+              "RelativeToolTip": "BankLibrery\\BankUIForm.Designer.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAiwBYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T04:26:01.888Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

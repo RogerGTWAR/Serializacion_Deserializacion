@@ -1,0 +1,15 @@
+C:\Users\rpere\OneDrive\Desktop\Serializacion y Deserializacion\BankLibrery\bin\Debug\net6.0-windows\BankLibrery.deps.json
+C:\Users\rpere\OneDrive\Desktop\Serializacion y Deserializacion\BankLibrery\bin\Debug\net6.0-windows\BankLibrery.dll
+C:\Users\rpere\OneDrive\Desktop\Serializacion y Deserializacion\BankLibrery\bin\Debug\net6.0-windows\BankLibrery.pdb
+C:\Users\rpere\OneDrive\Desktop\Serializacion y Deserializacion\BankLibrery\obj\Debug\net6.0-windows\BankLibrery.BankUIForm.resources
+C:\Users\rpere\OneDrive\Desktop\Serializacion y Deserializacion\BankLibrery\obj\Debug\net6.0-windows\BankLibrery.Properties.Resources.resources
+C:\Users\rpere\OneDrive\Desktop\Serializacion y Deserializacion\BankLibrery\obj\Debug\net6.0-windows\BankLibrery.csproj.GenerateResource.cache
+C:\Users\rpere\OneDrive\Desktop\Serializacion y Deserializacion\BankLibrery\obj\Debug\net6.0-windows\BankLibrery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rpere\OneDrive\Desktop\Serializacion y Deserializacion\BankLibrery\obj\Debug\net6.0-windows\BankLibrery.AssemblyInfoInputs.cache
+C:\Users\rpere\OneDrive\Desktop\Serializacion y Deserializacion\BankLibrery\obj\Debug\net6.0-windows\BankLibrery.AssemblyInfo.cs
+C:\Users\rpere\OneDrive\Desktop\Serializacion y Deserializacion\BankLibrery\obj\Debug\net6.0-windows\BankLibrery.csproj.CoreCompileInputs.cache
+C:\Users\rpere\OneDrive\Desktop\Serializacion y Deserializacion\BankLibrery\obj\Debug\net6.0-windows\BankLibrery.dll
+C:\Users\rpere\OneDrive\Desktop\Serializacion y Deserializacion\BankLibrery\obj\Debug\net6.0-windows\refint\BankLibrery.dll
+C:\Users\rpere\OneDrive\Desktop\Serializacion y Deserializacion\BankLibrery\obj\Debug\net6.0-windows\BankLibrery.pdb
+C:\Users\rpere\OneDrive\Desktop\Serializacion y Deserializacion\BankLibrery\obj\Debug\net6.0-windows\ref\BankLibrery.dll
+C:\Users\rpere\OneDrive\Desktop\Serializacion y Deserializacion\BankLibrery\obj\Debug\net6.0-windows\BankLibrery.csproj.AssemblyReference.cache
